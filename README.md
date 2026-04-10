@@ -9,3 +9,7 @@
 1. Calcular bien las coordenadas, ver que calzaran exactamente en su lugar al principio y confiar en que estaba bien posicionada, mirar por mucho tiempo para ver si calzaban. Con el tiempo me acostumbré y se me hizo más fácil.
 2. Saber separar todo correctamente, de modo a que los comandos que anotaba solo afectaran a lo que yo quería y no todo lo demás que estaba abajo de esa sección. Más específicamente, tuve dificultades en los comandos "fill()" donde solo quería que se rellenara un círculo en específico pero se rellenaban otros atrás los cuales no llevaban ese color. Lo mismo con el "strokeWeight()". Al final lo solucioné usando los comandos "push()", "pop()", "noFill()" y strokeWeight(0)" Al principio era tedioso porque se me olvidaba ponerlos y al principio se me dificultaba saber como se usban correctamente. Compañeros de universidad me ayudaron a resolverlo3.
 3. poder lograr la x de atrás, con los colores celeste y amarillo. el comando "quad()" se me dificulta demasiado por la cantidad de coordenadas, aún más porque son formas irregulares que se estrechan y comprimer, no ues un cuadrado normal. Al fina¿l lo solucioné usando la opción de "Información" en Photoshop que te muestra la coordenada X,Y exacta donde está. De igual forma saber de que punto guiarme y por cual empezar me demoró bastante.  
+
+## PROCESO imagenes
+
+![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/8ee3bc655cfa762d455317e70dd66143ef0f8645/1.png) 
