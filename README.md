@@ -13,3 +13,8 @@
 ## PROCESO imagenes
 
 ![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/8ee3bc655cfa762d455317e70dd66143ef0f8645/1.png) 
+![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/9c0f1a550318663dadbb91c307556a10e3f56647/2.png) 
+![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/9c0f1a550318663dadbb91c307556a10e3f56647/42BEF4DE-E61A-452F-A001-8FE3C315B850.JPG)
+![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/9c0f1a550318663dadbb91c307556a10e3f56647/B8811185-9A6E-48F6-B41E-731E3B40E919.jpg)
+![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/9c0f1a550318663dadbb91c307556a10e3f56647/IMG_9553.jpg)
+![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/9c0f1a550318663dadbb91c307556a10e3f56647/IMG_9555.jpg)
