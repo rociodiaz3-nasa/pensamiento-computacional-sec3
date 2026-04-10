@@ -18,3 +18,4 @@
 ![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/9c0f1a550318663dadbb91c307556a10e3f56647/B8811185-9A6E-48F6-B41E-731E3B40E919.jpg)
 ![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/9c0f1a550318663dadbb91c307556a10e3f56647/IMG_9553.jpg)
 ![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/9c0f1a550318663dadbb91c307556a10e3f56647/IMG_9555.jpg)
+![una imagen](https://github.com/rociodiaz3-nasa/pensamiento-computacional-sec3/blob/469ae38967a991e71e91cf2abe4bb1c522549809/final.png)
