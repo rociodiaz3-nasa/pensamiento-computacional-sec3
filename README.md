@@ -1,5 +1,5 @@
 # Circle in a Circle - Vasili Kandinski 1923
-![una imagen](https://www.wassilykandinsky.net/images/works/247.jpg?version=7) "Imagen referencial*
+![una imagen](https://www.wassilykandinsky.net/images/works/247.jpg?version=7) *Imagen referencial*
 
 ## Proceso de trabajo
 - Elegí esta obra porque su composición desordenada de círculos en su mayoria con su paleta de colores me llama mucho la atención. Pensé que era un reto interesante que quería lograr, es una obra llamativa y con suficiente desafío como para que no fuera aburrido el proceso de creación.
